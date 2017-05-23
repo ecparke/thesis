@@ -1,1 +1,5 @@
 # thesis
+
+welcome
+[] introduction
+[] text
