@@ -1,5 +1,6 @@
 # thesis
 
 welcome
-[] introduction
-[] text
+* [] introduction
+* [] text
+* [] results
